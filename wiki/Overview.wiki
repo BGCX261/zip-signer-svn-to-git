@@ -1,0 +1,3 @@
+#summary Project overview
+
+Moved to the [http://code.google.com/p/zip-signer project homepage].
